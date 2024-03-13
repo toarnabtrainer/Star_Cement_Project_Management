@@ -9,7 +9,7 @@
 
 <hr>
 
-**Example User Stories:**<br>
+**Sample User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
 <hr>
