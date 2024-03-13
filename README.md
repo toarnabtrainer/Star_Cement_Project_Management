@@ -9,6 +9,11 @@
 
 <hr>
 
+**Example User Stories:**<br>
+https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
+
+<hr>
+
 **PERT - Program Evaluation Review Technique**<br>
 **Three-point analysis:**<br>
 * **Most Likely Estimate (M)** = Estimate of the most likely value of the duration <br>
