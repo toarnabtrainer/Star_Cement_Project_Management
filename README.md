@@ -118,7 +118,7 @@ Int([Number4])>=0.5,Int([Number4])+1,Int([Number4]))<br>
 </pre>
 <hr>
 
-## There are 5 Scrum Ceremonies: They are Backlog Refinement, Sprint Planning, Daily Standup (Daily Scrum), Sprint Review, Sprint Retrospective
+## There are 5 Scrum Ceremonies: They are Product Backlog Refinement, Sprint Planning, Daily Standup (Daily Scrum), Sprint Review, Sprint Retrospective
 
 ![image](https://github.com/toarnabtrainer/Agile_Project_Management/assets/111301975/30961db9-6ee7-45ca-9205-5e4875920004)
 
