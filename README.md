@@ -1,7 +1,5 @@
 # Star_Cement_Project_Management
 
-# MS-Project_Peerless
-
 **GitHub Link:** https://github.com/toarnabtrainer/Star_Cement_Project_Management<br>
 **or** https://tinyurl.com/yc4tcj6u
 
