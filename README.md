@@ -125,3 +125,9 @@ Int([Number4])>=0.5,Int([Number4])+1,Int([Number4]))<br>
 ![image](https://github.com/toarnabtrainer/Agile_Project_Management/assets/111301975/30961db9-6ee7-45ca-9205-5e4875920004)
 
 <hr>
+
+## Sample Template for User Stories:
+
+![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
+
+<hr>
